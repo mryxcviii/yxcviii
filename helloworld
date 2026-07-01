@@ -7,6 +7,25 @@
 </head>
 <body>
     <h1>Hello, World!</h1>
+
     <p>Welcome to my first HTML page.</p>
+
+    <h2>About This Page</h2>
+    <p>This webpage was created using basic HTML. It contains headings, paragraphs, lists, links, and other simple elements.</p>
+
+    <h2>Things I Am Learning</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>My Favorite Website</h2>
+    <p>
+        Visit <a href="https://www.google.com">Google</a> to search for information.
+    </p>
+
+    <h2>Thank You</h2>
+    <p>Thank you for visiting my first webpage!</p>
 </body>
 </html>
